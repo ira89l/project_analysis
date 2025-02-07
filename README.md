@@ -39,13 +39,13 @@ This dataset was prepared and uploaded by Mehmet Emre Sezer. It is intended for 
 
 # Questions:
 
-How are prices distributed across different areas?
-Which area has the most property listings?
-Do one-bedroom apartments dominate in certain areas of the city?
-Which area has the highest number of properties with the largest size?
-How does property size correlate with price categories (Low, Medium, High)?
-In which areas do affordable properties (Low Price category) dominate?
-What percentage of the market consists of one-bedroom properties compared to multi-bedroom options?
-Which area has the highest average rental price?
-Does proximity to central areas affect rental price? How does the average rental price vary between central and non-central areas?
-Which area has the largest average property size?
+1. How are prices distributed across different areas?
+2. Which area has the most property listings?
+3. Do one-bedroom apartments dominate in certain areas of the city?
+4. Which area has the highest number of properties with the largest size?
+5. How does property size correlate with price categories (Low, Medium, High)?
+6. In which areas do affordable properties (Low Price category) dominate?
+7. What percentage of the market consists of one-bedroom properties compared to multi-bedroom options?
+8. Which area has the highest average rental price?
+9. Does proximity to central areas affect rental price? How does the average rental price vary between central and non-central areas?
+10. Which area has the largest average property size?
